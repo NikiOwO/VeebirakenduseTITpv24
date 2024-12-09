@@ -1,0 +1,42 @@
+body{
+    font-family: monospace;
+    color: crimson;
+    background-color: lavenderblush;
+}
+h1{
+    border: solid 10px crimson;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    width: 17%;
+    border-style: dotted;
+    border-inline-color: lavenderblush;
+}
+h2{
+    border: groove 5px crimson;
+    padding: 1%;
+    margin: 10px;
+    border-radius: 60px;
+    width: 10%;
+    border-style: dotted;
+    background-color: navajowhite;
+}
+ul{
+    list-style-type: circle;
+    padding:15px;
+    background-color: antiquewhite;
+}
+ul li{
+    background-color: mintcream;
+    margin:5px;
+}
+table{
+    width: 60%;
+    border: solid 3px crimson;
+    border-style: dotted;
+    padding: 30px;
+    border-radius: 50px;
+    width: 15%;
+    background-color: antiquewhite;
+    text-align: center;
+}
