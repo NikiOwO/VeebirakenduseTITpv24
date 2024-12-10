@@ -1,0 +1,68 @@
+body{
+    font-family: monospace;
+    font-size: 20px;
+    color: crimson;
+    background-color: whitesmoke;
+}
+header h1{
+    border: solid 2px crimson;
+    padding: 2%;
+    margin: 10px;
+    border-radius: 30px;
+    width: 18.5%;
+    background-color: lavenderblush;
+    letter-spacing: 0.2cm;
+    font-variant: small-caps;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rosybrown;
+}
+li{
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+li a:hover{ /*lingid fookuses*/
+    background-color: lightpink;
+}
+footer{
+    text-align: center;
+    /*margin-top: 20%;*/
+    background-color: rosybrown;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+section{
+    border: solid 2px crimson;
+    padding: 1%;
+    margin: 10px;
+    border-radius: 5px;
+    width: 18.5%;
+    background-color: lavenderblush;
+    letter-spacing: 0cm;
+    font-variant: all-petite-caps;
+    color: black;
+}
+section h1{
+    border: solid 2px crimson;
+    padding: 2%;
+    margin: 1px;
+    border-radius: 10px;
+    width: 90%;
+    background-color: whitesmoke;
+    letter-spacing: 0.3cm;
+    font-variant: small-caps;
+    color: crimson;
+}
